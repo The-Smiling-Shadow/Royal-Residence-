@@ -213,6 +213,6 @@ This project is licensed under the MIT License.
 Contact
 For any inquiries or support:
 
-Email: your-email@example.com
+Email: farhanmansoori043@gmail.com
 
-GitHub Profile: your-github-profile
+GitHub Profile: The-Smiling-Shadow
